@@ -29,19 +29,5 @@ def bin_to_dec(n):
         return bin_to_dec(n[:-1]) * 2 + 1
     else:
         return bin_to_dec(n[:-1]) * 2
-
-
-def test():
-    """test functions above"""
-    print(dec_to_bin(4))
-    print(dec_to_bin(7))
-    print(dec_to_bin(10))
-    print(dec_to_bin(111))
-    print(dec_to_bin(100))
-    print(bin_to_dec('1110'))
-    print(bin_to_dec('1100'))
-    print(bin_to_dec('00011010'))
-    print(bin_to_dec('111'))
-
-
-test()
+    
+    
