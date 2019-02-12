@@ -53,22 +53,3 @@ def index(elem, seq):
             return i
     return -1
 
-
-def test():
-    """test functions above"""
-    print(double('hello'))
-    print(double('python'))
-    print(double(''))
-    print(weave('hhh', 'ii'))
-    print(weave('aaaa', 'bbbbbb'))
-    print(weave('abcde', 'VWXYZ'))
-    print(square_evens([1, 2, 3, 4, 5, 6]))
-    print(square_evens([1, 3, 5, 7, 9]))
-    print(square_evens([2, 4, 6, 8, 10]))
-    print(index(10, [4, 10, 8, 5, 3, 5]))
-    print(index('hi', ['well', 'hi', 'there']))
-    print(index('a', 'banana'))
-    print(index('i', 'team'))
-
-    
-test()
