@@ -54,20 +54,3 @@ def add_bitwise(b1, b2):
         else:
             return add_bitwise(to_recurse, '1') + '0'
 
-
-def test():
-    """test functions above"""
-    print(bitwise_and('11010', '10011'))
-    print(bitwise_and('11011', '1001111'))
-    print(bitwise_and('', ''))
-    print(bitwise_and('101', ''))
-    print(bitwise_and('', '11010'))
-    print(add_bitwise('11100', '11110'))
-    print(add_bitwise('10101', '10101'))
-    print(add_bitwise('11', '1'))
-    print(add_bitwise('11', '101'))
-    print(add_bitwise('', '101'))
-
-
-test()
-
