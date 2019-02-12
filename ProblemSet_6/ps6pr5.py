@@ -36,11 +36,3 @@ def main():
     result = 'their sum is ' + str(fib(int(n)))
     print(result)
 
-
-def test():
-    """test functions above"""
-    #print(fib(8))
-    main()
-
-
-test()
