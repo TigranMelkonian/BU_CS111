@@ -168,18 +168,3 @@ def tts():
 
     print('See you yesterday!')
 
-
-def test():
-    """test functions above"""
-    # print(avg_price([10, 20, 18]))
-    # print(avg_price([5, 8, 5, 3]))
-    # print(std_dev([10, 20, 18]))
-    # print(std_dev([5, 8, 5, 3]))
-    # print(min_day([20, 10, 18]))
-    # print(min_day([15, 18, 12, 22, 17]))
-    # print(any_above([10, 20, 15], 5))
-    # print(find_plan([15, 18, 12, 17, 213, 35, 300]))
-
-
-# test()
-tts()
