@@ -77,13 +77,3 @@ def est_pi2(error):
 ###    In addition, your functions must *NOT* make their own calls
 ###    to random.uniform(), and you will lose points if they do so.
 
-
-def test():
-    """test functions above"""
-    print(throw_dart())
-    print(est_pi2(0.1))
-    print()
-    print()
-
-
-test()
