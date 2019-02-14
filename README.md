@@ -3,7 +3,7 @@ Course assignments from Boston University's CS 111 course. The assignments are i
 
 ## Here’s a quick summary of each problem set:
 
-* **Problem Set 1:**  Indexing and slicing puzzles, Understanding statements, program flow and variable scope,Functions with numeric inputsFunctions on strings and lists, part II
+* **Problem Set 1:**  Indexing and slicing puzzles, Understanding statements, program flow and variable scope,Functions with numeric inputs, Functions on strings and lists- part II
 * **Problem Set 2:** More practice with writing functions, Thinking recursively, Fun with recursion, part I,Tracing functions and list, Writing list comprehensions comprehensions, Fun with recursion, part II
 * **Problem Set 3:** Algorithm design, Caesar cipher and decipher, More algorithm design!
 * **Problem Set 4:** From binary to decimal and back, Recursive operations on binary numbers 
