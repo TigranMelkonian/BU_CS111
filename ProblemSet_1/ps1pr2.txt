@@ -1,0 +1,8 @@
+line of code   | x  | y  | z  |
+--------------------------------
+x = 11         | 11 |    |    |
+y = 5          | 11 | 5  |    |
+x = x + 6      | 17 | 5  |    |
+z = y + x      | 17 | 5  | 22 |
+x = x // 7     | 2  | 5  | 22 | #gets floor of any number
+y = z % 3      | 2  | 1  |    | #gets the remainder of any number
